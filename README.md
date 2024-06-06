@@ -26,3 +26,10 @@ docker build -t nagios-test .
 docker run -it -d -p 0.0.0.0:80:80 nagios-test
 ```
 
+##Paso 4: conexion
+
+Recuerda usar tu ip 
+Reemplaza "tu.ip" por la ip publica de tu maquina
+```sh
+http://tu.ip/nagios/
+```
