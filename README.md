@@ -28,6 +28,10 @@ docker run -it -d -p 0.0.0.0:80:80 nagios-test
 
 ##Paso 4: conexion
 
+Credenciales:
+Usuario: admin
+Clave: duoc.2024
+
 Recuerda usar tu ip 
 Reemplaza "tu.ip" por la ip publica de tu maquina
 ```sh
